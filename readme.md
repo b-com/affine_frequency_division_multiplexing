@@ -4,7 +4,7 @@ The Matlab script afdm_modem.m generates an AFDM signal sampled at Nyquist rate 
 It returns the BER and the input/output constellation of the random transmitted/received data.     
 It is an AFDM modem that can be used to obtain basic performance metrics such as BER/EVM vs SNR, PAPR, OOBE, and so on, or to test some algorithms by adding your own code.  
 
-# To use the python code:
+# To use the Matlab code
 
 Run the code on Matlab. 
 
